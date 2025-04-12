@@ -1,10 +1,10 @@
 static char* asciiart = "\n"
-	"    :::::   :::::: :::::::::::: ::::::::::    :::::::::   ;::::::::: ::::::::::          :::::::::::  :::::::::::  :::::::::::: :::::::::::   :::::::::\n"
-	"   ;;;;;;  ;;;;;; ;;;;;  ;;;;; ;;;;;; ;;;;;  ;;;;; ;;;;;  ;;;;;     ;;;;;; ;;;;;        ;;;;;  ;;;;;    ;;;;;     ;;;;;  ;;;;; ;;;;;  ;;;;;  ;;;;;     \n"
-	"  ++;;;;+++;;;++ +++++  +++++ ++++++ +++++  +++++ +++++  ++;;++x+  ++++++ ++++++       ++++++xxx+      +++++     +++++  +++++ ++;++ ++++++  ++;;+xx+   \n"
-	"  xx++++++++++x  x++xx xx++x  x++xx  x++xx x+++x  x++xx x++++xxxx  x+++x  x++xx         xxxxx+++xx    xx++x     x++xx  x++xx x+++++x++xxx  x+++xxxx    \n"
-	" XX xxxx xxxxXX XxxxX XXxxxX Xxxxx  XxxxX Xxxxx  XxxxX XxxxxX     Xxxxx  XxxxX        XXXXX  xxxXX    XxxXX    Xxxxx  XxxxX Xxxxx xxxx    Xxxxx        \n"
-	"$$$ $$$  $$$$$ $$$XX$$$$$$$ $$XXX$$$$$   $$$XX$$$$$    $$XX$$$$$ $$$XX$$$$$     $$$  $$$$$$$$$$$$    $$$$$    $$$XX$$$$$$$ $$$$$  $$$$$  $$XX$$$$$     \n";
+	"    :::::   :::::  :::::::::::: :::::::::    :::::::::   :::::::::: :::::::::          :::::::::::  ::::::::::: :::::::::::: :::::::::::  :::::::::\n"
+	"   ;;;;;; ;;;;;;; ;;;;;  ;;;;; ;;;;; ;;;;;  ;;;;; ;;;;; ;;;;;      ;;;;;  ;;;;;       ;;;;;  ;;;;;    ;;;;;    ;;;;;  ;;;;; ;;;;; ;;;;;; ;;;;;     \n"
+	"  ++;;;;;++;;;++ ++;++  +++++ +++++  +++++ +++++ +++++  ++;++xx   +++++  +++++        +++++xxxx      +++++    +++++  +++++ ++;++  +++++ ++;;++xx   \n"
+	"  xx++++++++++x xx++x  x+++x xx++x  x+++x x+++x  x++xx x+++xxxx  xx++x  xx++x         xxxxxx++xx    xx++x    xx++x  xx++x x++++++++xx  xx+++xxxx   \n"
+	" XX xxxx xxxxX XxxxX  XxxxX Xxxxx  XxxxX Xxxxx  XxxxX Xxxxx     Xxxxx  XxxxX       XXXXX XxxxXX    XxxXX    Xxxxx  XxxxX XXxxxxxxxxX  Xxxxx        \n"
+	"$$  $$$  $$$$ $$XX$$$$$$$$ $$$XX$$$$$   $$$XX$$$$$   $$$XX$$$$ $$XXX$$$$$$    $$$$ $$$$$$$$$$$$   $$$$$    $$$XXX$$$$$$ $$$$$  $$$$$ $$XX$$$$$     \n"
                                                                                                                                                                                 
 static char* asciitail =
 	"              Free60.org XeLL RELOADED - Xenon Linux Loader\n              Console Serviced + Modded by Modded.Store\n";

@@ -4,7 +4,7 @@ static char* asciiart = "\n"
 	"  XXxXXXXXXxXXXX XXXXX  XXXXX xXXXX XXXXXXXXXXX  XXXXx XXXXXXXX  XXXXX  XXXXx       XXXXXXXXXX      XXXXX   XxXXX  XXXXX XXXXx  XXXXx XXXXXXXX   \n"
 	"  $$$$$$$$$$$$$ $$$$$  $$$$$ $$$$$  $$$$$&$$$$$ $$$$$$$$$$$&&&  $$$$$  $$$$$          &&&&$$$$$    $$$$$    $$$$$  $$$$$$$$$$$$$$$$$ $$$$$&&&    \n"
 	" && &&&&&&&&&&&&&&&&  &&&&& &&&&&  &&&&& &&&&& &&&&&&&&&&&&    &&&&&& &&&&&&       &&&&& &&&&&    &&&&&    &&&&& &&&&&& &&&&&&&&&&  &&&&&        \n"
-	"&&& &&&& &&&&& &&&&&&&&&&&&&&&&&&&&&&&& &&&&&&&&&&&& &&&&&&&&& &&&&&&&&&&&& &&&&& &&&&&&&&&&&&   &&&&&&   &&&&&&&&&&&& &&&&& &&&&&  &&&&&&&&&    \n"
+	"&&& &&&& &&&&& &&&&&&&&&&&&&&&&&&&&&&&& &&&&&&&&&&&& &&&&&&&&& &&&&&&&&&&&& &&&&& &&&&&&&&&&&&   &&&&&&   &&&&&&&&&&&& &&&&& &&&&&  &&&&&&&&&    \n";
                                                                                                                                                                                 
 static char* asciitail =
 	"              Free60.org XeLL RELOADED - Xenon Linux Loader\n              Console Serviced + Modded by Modded.Store\n";

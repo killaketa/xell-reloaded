@@ -7,4 +7,4 @@ static char* asciiart = "\n"
 	"$$  $$$  $$$$ $$XX$$$$$$$$ $$$XX$$$$$$  $$$XX$$$$$  $$$XX$$$$  $$XXX$$$$$$    $$$$ $$$$$$$$$$$$   $$$$$    $$$XXX$$$$$$ $$$$$  $$$$$ $$XX$$$$$     \n";
                                                                                                                                                                                 
 static char* asciitail =
-	"              Console Serviced + Modded by Modded.Store\n\n              Free60.org XeLL RELOADED - Xenon Linux Loader\n\n";
+	"\n              Console Serviced + Modded by Modded.Store\n\n              Free60.org XeLL RELOADED - Xenon Linux Loader\n\n";
